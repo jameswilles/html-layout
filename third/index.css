@@ -1,0 +1,41 @@
+body, html {
+margin: 0;
+padding: 0;
+}
+
+.header {
+box-sizing: border-box;
+background-color: lightgrey;
+padding: 25px;
+}
+
+.blue-square {
+background-color: #5528ff;
+height: 50px;
+width: 50px
+}
+
+.text {
+padding: 50px;
+box-sizing: border-box;
+}
+
+.blue-section {
+background-color: #5582ff;
+height: 100px;
+}
+
+.turquoise-section {
+background-color: #2de9da;
+height: 100px;
+}
+
+.lime-section {
+background-color: #c0ff7e;
+height: 100px;
+}
+
+.yellow-section {
+background-color: #ffeb30;
+height: 100px;
+}
